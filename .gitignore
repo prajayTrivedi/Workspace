@@ -27,3 +27,4 @@
 *.vshost.exe.config
 *.vshost
 *.vshost.exe.manifest
+/Arrange/.vs/Arrange/v15

@@ -1,0 +1,6 @@
+C:\otherwork\Dot\Arrange\Arrange\bin\Debug\Arrange.exe.config
+C:\otherwork\Dot\Arrange\Arrange\bin\Debug\Arrange.exe
+C:\otherwork\Dot\Arrange\Arrange\bin\Debug\Arrange.pdb
+C:\otherwork\Dot\Arrange\Arrange\obj\Debug\Arrange.exe
+C:\otherwork\Dot\Arrange\Arrange\obj\Debug\Arrange.pdb
+C:\otherwork\Dot\Arrange\Arrange\obj\Debug\Arrange.csprojResolveAssemblyReference.cache
